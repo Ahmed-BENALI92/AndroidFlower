@@ -6,7 +6,7 @@
     <string name="home_page_last_plat_section" translatable="false">Dernières plantes</string>
 
     <!-- Page Collection-->
-    <string name="Collection_page_title" translatable="false">Ma colection </string>
+    <string name="Collection_page_title" translatable="false">Ma colection</string>
 
     <!-- Page d'ajout de plante-->
     <string name="add_plant_page_title" translatable="false">Ajout d\'une plante </string>
