@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Android Flower</string>
+    
+    <!-- Page d'accueil-->
+    <string name="home_page_title" translatable="false">A découvrir </string>
+    <string name="home_page_last_plat_section" translatable="false">Dernières plantes</string>
+
+    <!-- Page Collection-->
+    <string name="Collection_page_title" translatable="false">Ma colection </string>
+
+    <!-- Page d'ajout de plante-->
+    <string name="add_plant_page_title" translatable="false">Ajout d\'une plante </string>
+    <string name="add_plant_name_input" translatable="false">@string/item_plant_name </string>
+    <string name="add_plant_page_description_input" translatable="false">@string/item_plant_description </string>
+    <string-array name="add_plant_page_grow_spinner_input">
+        <item>Croissance : Lente</item>
+        <item>Croissance : Moyenne</item>
+        <item>Croissance : Rapide</item>
+    </string-array>
+
+    <string-array name="add_plant_page_water_spinner_input">
+        <item>Consommation : faible</item>
+        <item>Consommation : Moyenne</item>
+        <item>Consommation : Elevee</item>
+    </string-array>
+
+    <string name="add_plant_page_confirme_button" translatable="false">Confirmer</string>
+    <!-- Page customise-->
+    <string name="item_plant_name" translatable="false">Nom de la plante</string>
+    <string name="item_plant_description" translatable="false">Description de la plante</string>
+    <!-- fenetre popup de details-->
+    <string name="popup_plant_name" translatable="false">Plant Name</string>
+    <string name="popup_plant_description" translatable="false">Description</string>
+    <string name="popup_plant_sub_description" translatable="false">Petit description</string>
+    <string name="popup_plant_Consommation_Eau" translatable="false">Consommation Eau</string>
+    <string name="popup_plant_sub_Consommation_Eau" translatable="false">Basse</string>
+    <string name="popup_plant_Croissance" translatable="false">Croissance</string>
+    <string name="popup_plant_sub_Croissance" translatable="false">Lente</string>
+</resources>
